@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 title: Sleek # your site title
-author: Huang.hao # You :P
+author: huang.hao # You :P
 description: > # Meta description of Homepage
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -21,7 +21,7 @@ social:
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: '主页'', link: '/'}
+  - {name: '主页', link: '/'}
   - {name: '关于', link: '/about'}
   - {name: '联系', link: '/contact'}
 
